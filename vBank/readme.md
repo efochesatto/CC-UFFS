@@ -1,4 +1,4 @@
-#vBank
+# vBank
 
 Projeto desenvolvido como requisito avaliativo do CCR Algoritmos e Programação, do curso de Bacharelado em Ciência da Computação UFFS, 2019/01, ministrado pelo professor Dr. Guilherme Dal Bianco.
 
